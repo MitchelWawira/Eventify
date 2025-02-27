@@ -14,4 +14,4 @@ Features
 - Backend: Java (Android Studio)  
 - Database: Firebase / MySQL  
 - Authentication: Firebase Authentication  
-- Payment Gateway: (Specify if implemented)  
+ 
